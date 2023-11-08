@@ -47,17 +47,17 @@ Se llevo a cabo el procesamiento, limpieza y análisis de las variables presente
 lugar a información útil para la generación de gráficos y posteriores conclusiones para la realización del proyecto. Podrás observar una serie de transformaciones, la realización de gráficos en busca de información, análisis sobre los mismos y las conclusiones de mercado que se podrían tomar en base a lo observado. Con las conclusiones se plantearon luego 2 **KPIs 
 (Key Performance Indicator)** con los que se buscará proporcionar una medida cuantificable y objetiva del rendimiento del negocio: <br>
 
-LINK al EDA 1ra parte :[LinkEDA1](https://github.com/PKleinDataSets/DataAnalytics_Telecomunicaciones/blob/main/EDA_primera_parte.ipynb)
+LINK al EDA 1ra parte : [EDA Primera Parte] (https://github.com/PKleinDataSets/DataAnalytics_Telecomunicaciones/blob/main/EDA_primera_parte.ipynb)
 
 Aqui se analizan la calidad de los datos si tiene datos faltantes , duplicados o outliers
 
-LINK al EDA 2da parte :[LinkEDA2](https://github.com/PKleinDataSets/DataAnalytics_Telecomunicaciones/blob/main/EDA_segunda_parte.ipynb)
+LINK al EDA 2da parte : [EDA Segunda Parte] (https://github.com/PKleinDataSets/DataAnalytics_Telecomunicaciones/blob/main/EDA_segunda_parte.ipynb)
 
 Aqui se analizan los datos buscando patrones y tendencias , se hace un breve analisis de cada observacion.
 
 ### **DASHBORD**
 
-LINK al DASHBORD[LinkDashbord]()
+LINK al DASHBORD : [DASHBORD] ()
 
 ### **Observaciones sobre los datos**
 
