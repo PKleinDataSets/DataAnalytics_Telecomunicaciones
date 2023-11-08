@@ -12,8 +12,6 @@
 <img src="https://newses.cgtn.com/n/BfJIA-CAA-HAA/BceGDAA.jpg"  height=300>
 <p>
 
-## **Descripción del problema -contexto y rol a desarrollar-**
-
 ### **Contexto**
 
 Las telecomunicaciones se refieren a la transmisión de información a través de medios electrónicos, como la telefonía, la televisión, la radio y, más recientemente, el internet. Estos medios de comunicación permiten la transmisión de información entre personas, organizaciones y dispositivos a largas distancias.
@@ -29,24 +27,38 @@ En comparación con la media mundial, Argentina está a la vanguardia en el desa
 
 En este contexto, una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un **análisis** completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar **acceso a internet**, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
 
-## **Propuesta de trabajo -mínimos entregables-**
-*Es importante que a la hora de empezar a desarrollar cada item, y tu demo, te ayudes tambien de la [rúbrica de evaluación](https://docs.google.com/spreadsheets/d/e/2PACX-1vTV3zL1aeGRlbXkiy5012GWbDBMseA4iziMXs597TZfgaYgazjxZDx_-q6L4s9io3JW4UPHcZs_XNyz/pubhtml).* 😄
+### **Introduccion**
 
-`EDA` (Exploratory Data Analysis)
+Este proyecto se enfoca en el análisis del sector de telecomunicaciones en Argentina, basandosé principalmente en el crecimiento, ingresos y evolución de los servicios de internet con el paso de los años. Se utilizarán datos oficiales obtenidos del ENACOM para analizar la evolución del sector en variables como el accesso a internet por provincias, generación de ingresos nacionales, distribución de las tecnologías en el país, entre otras. 
+Tomaremos el rol de un análista al cual se le pide que describa el comportamiento del sector para ayudar a mejorar la prestación de servicios de la empresa que lo 
+contrato, realizando un análisis con los datos para posteriormente definir un plan de acción (KPIs) y realizar la presentación de un Dashboard que reuna las 
+conclusiones obtenidas. 
 
-Debes realizar un análisis exploratorio de los datos en un notebook. Tienen que estar tus pasos documentados con claridad, con las conclusiones correspondientes en cada gráfico empleado y análisis de lo que vas observando, utilizando celdas Markdown para tal fin. La prolijidad del notebook será un aspecto a evaluar. Es importante que tengas en cuenta que, en muchas oportunidades y trabajos, un EDA constituye un entregable en sí mismo.
 
-En esta línea, hay varios aspectos indispensables que **deben** ser abordados en cualquier Análisis Exploratorio de Datos y tomaremos como punto de partida para evaluar tu performance en este apartado. Entre estos aspectos destacados se encuentran: *búsqueda de valores faltantes, valores atípicos/extremos u outliers y registros duplicados*. Asimismo, la utilización de gráficos coherentes según la tipología de variable que corresponda resulta esencial.
+### **Datos Analizados**
 
-***En caso de hacer uso de librerías como pandas_profiling, es indispensable acompañar los gráficos con análisis propios.***
+LINK a los datasets:[LinkData](https://github.com/PKleinDataSets/DataAnalytics_Telecomunicaciones/tree/main/Datasets_finales)
 
-`Dashboard`
+LINK a la fuente :[LINKFuente](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
 
-Debe ser funcional y coherente con el storytelling. El dasbhoard tiene que incluir **filtros**, permitiendo explorar detalladamente los datos con la selección de cada uno de ellos. Es decir, es indispensable que sea **interactivo**. También, se espera que el diseño que implementen facilite la interpretación de la información y su análisis, siendo importante, para ello, la claridad en la presentación de los datos, aspectos inherentes a la esteticidad, elección coherente de los gráficos según las variables a visualizar, entre otros ítems. 
+### **EDA** 
 
-`Análisis` :warning:
+LINK al EDA 1ra parte :[LinkEDA1](https://github.com/PKleinDataSets/DataAnalytics_Telecomunicaciones/blob/main/EDA_primera_parte.ipynb)
 
-No se considerará solamente la producción de gráficos con datos -dashboard-, sino también los análisis y conclusiones que puedan extraer a partir de ellos.
+Aqui se analizan la calidad de los datos si tiene datos faltantes , duplicados o outliers
+
+LINK al EDA 2da parte :[LinkEDA2](https://github.com/PKleinDataSets/DataAnalytics_Telecomunicaciones/blob/main/EDA_segunda_parte.ipynb)
+
+Aqui se analizan los datos buscando patrones y tendencias , se hace un breve analisis de cada observacion.
+
+### **DASHBORD**
+
+LINK al DASHBORD[LinkDashbord]()
+
+### **Observaciones sobre los datos**
+
+
+### **Analisis de los KPIs propuestos**
 
 `KPIs`
 
@@ -57,7 +69,10 @@ El segundo KPI propuesto es :
 
 - *Aumentar un 20% la velocidad media de bajada (Mbps) en el último trimestre , por provincia*
 
-## Fuente de datos
+### **Conclusiones**
+
+
+### **Fuente de datos**
 
 - [Datasets principales](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
 
