@@ -1,16 +1,10 @@
-<p align='center'>
-<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
-<p>
+# <h1 align="center"> Proyecto de Data Analytics </h1> <br>
 
-<h1 align='center'>
- <b>PROYECTO INDIVIDUAL Nº2</b>
-</h1>
- 
-# <h1 align="center">**`Telecomunicaciones`**</h1>
+<p align="center">
+<img src="_src/images/img_analytics.jpg"  height=350>
+</p>
 
-<p align='center'>
-<img src="https://newses.cgtn.com/n/BfJIA-CAA-HAA/BceGDAA.jpg"  height=300>
-<p>
+### **Telecomunicaciones en Argentina**
 
 ### **Contexto**
 
@@ -42,6 +36,16 @@ LINK a los datasets:[LinkData](https://github.com/PKleinDataSets/DataAnalytics_T
 LINK a la fuente :[LINKFuente](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
 
 ### **EDA** 
+
+# EDA (Exploratoy Data Analysis) <br>
+
+<p align='center'>
+<img src = "_src/images/img_EDA.jpg" height = 350>
+<p>
+
+Se llevo a cabo el procesamiento, limpieza y análisis de las variables presentes en nuestros datos en busca de patrones, tendencias, relaciones y anomalías dando
+lugar a información útil para la generación de gráficos y posteriores conclusiones para la realización del proyecto. Podrás observar una serie de transformaciones, la realización de gráficos en busca de información, análisis sobre los mismos y las conclusiones de mercado que se podrían tomar en base a lo observado. Con las conclusiones se plantearon luego 2 **KPIs 
+(Key Performance Indicator)** con los que se buscará proporcionar una medida cuantificable y objetiva del rendimiento del negocio: <br>
 
 LINK al EDA 1ra parte :[LinkEDA1](https://github.com/PKleinDataSets/DataAnalytics_Telecomunicaciones/blob/main/EDA_primera_parte.ipynb)
 
