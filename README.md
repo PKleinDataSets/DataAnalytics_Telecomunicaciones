@@ -96,7 +96,7 @@ Este KPI no se cumplió en promedio , se logró en promedio un aumento de 0.65%.
 
 - 2°KPI : Aumento del 20 % de la velocidad de bajada promedio en el último trimestre por provincia.
 
-Este KPI si se cumplió en promedio , se logró un aumento del 73%.
+Este KPI si se cumplió en promedio , se logró un aumento del 73%, supera los valores esperados con creces
 
 ### **Conclusiones**
 
