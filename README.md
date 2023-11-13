@@ -59,7 +59,7 @@ LINK al Informe : [INFORME](https://github.com/PKleinDataSets/DataAnalytics_Tele
 
 ### **DASHBORD**
 
-LINK al DASHBORD : [DASHBORD] ()
+LINK al DASHBORD : [DASHBORD] (https://github.com/PKleinDataSets/DataAnalytics_Telecomunicaciones/blob/main/dashboard_internet_2.pbix)
 
 ### **Observaciones sobre los datos**
 
